@@ -1,0 +1,7 @@
+🚀  Fix Update |  تحديث اصلاحي  🚀
+#OBWhatsappV46
+📆 18-07-2022
+🏷 Base: 2.22.10.73
+⭕️ What's news in 46
+☑️ [Fixed] Group privacy not in group settings
+☑️ [Fixed] Hidden chat show in search 
