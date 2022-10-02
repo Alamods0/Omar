@@ -1,9 +1,9 @@
 مالجديد في الاصدار V48
 
 📎 تحديث قاعدة واتساب إلى 2.22.17.76
-التحديث في قناتي على التلجرام على شكل ملف قم بتحميلة الان 
+تم اصلاح اعلاق التطبيق  تم اصلاح التطبيق ليس مثبتا  تم اصلاح  انهيار عند فتح المحادثة  تم اصلاح كل المشاكل 
 
 What's new in version V48
 
 📎 Update WhatsApp base to 2.22.17.76
-Update in my telegram channel in the form of a file, download it now
+The application stuck fixed The application was not installed The crash was fixed when opening the conversation All problems were fixed
