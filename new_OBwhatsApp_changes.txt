@@ -1,44 +1,3 @@
-🚨  Update | تحديث  🚨
-
-
-تحميل تحديث جميع  نسخ واتساب عمر  2023 اصدار V50.55 #OBWhatsapp
-📆 05-02-2023
-
-🟡 Base:  2.22.23.77
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-➖ What's news in V50.55
-
-🟡[Added Option to hide camera icon from home top bar (Gold Settings > Home Screen > Header)
-✅Enabled Undo deleted message (delete for me)
-✅Enabled View Contact Story from home
-✅Enabled View status from contact info page
-✅Enabled Create your Avatar (Like bitmoji) for WA
-✅Enabled Sending caption with documents for all
-🍴Fixed Hide Typing & Recording privacy not working (now merged)
-🍴Fixed New Attach UI and some entries not opening correct gallery
-🍴Fixed Blank space on side when recording voice note on stock entry style
-🍴Fixed Hide Muted/Recent/Viewed Updates status option
-🍴Fixed Payment icon showing incorrectly in some entries
-🍴Fixed Voice note playing crash on some phones
-🍴Fixed Hidden chats "Forward to" option
-🍴Fixed Conversation Cards (multi chats) option
-🍴Fixed "Copy Select" in chat menu translation error
-🍴Fixed "Copy Caption" in chat menu translation error
-🍴Fixed Some users crash after restore
-🌀Improved Status DP ring takes same color as status ring
-🫥Moved Story Repost option into download box
-
-⭐️Misc Enjoy and discover by yourself!
-⭐️Misc Other fixes and improvements
-
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
-🟡  قاعدة الواتساب: 2.22.23.77
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
 ➖ الجديد في نسخة V50.55
 
 🟡 إضافة خيار لإخفاء ايقونة الكاميرا من الشريط العلوي في الصفحة الرئيسية
@@ -57,12 +16,5 @@
 🍴إصلاح استعادة النسخة الاحتياطية يحدث خطئ في بعض الاجهزة
 ✅نقل خيار إعادة نشر الحالة في مربع التنزيل
 ✅استمتعوا واكتشفوا الجديد بنفسكم!
-⭐️مزيد من إصلاحات وتحسينات أخرى
-❤️والعديد من المزايا والتحسينات! 
-
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
-📎 Download and details:
-🟩 التحميل والتفاصيل:
-
-رابط تحميل واتساب عمر والاحمر والازرق والوردي والاخضر  والذهبي والعنابي
+⭐مزيد من إصلاحات وتحسينات أخرى
+❤والعديد من المزايا والتحسينات! 
